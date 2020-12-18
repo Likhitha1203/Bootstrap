@@ -1,0 +1,14 @@
+header, footer {
+    font-family: 'Caveat', cursive;
+}
+
+hr {
+    border : none;
+    height : 2px;
+    color : black;
+}
+
+h1 {
+    font-family: 'Lora', serif;
+}
+
